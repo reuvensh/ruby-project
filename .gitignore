@@ -1,0 +1,15 @@
+# Bundled gems
+/vendor/bundle/
+/.bundle/
+
+# Gem built
+*.gem
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
