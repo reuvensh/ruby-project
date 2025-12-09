@@ -8,4 +8,4 @@ ruby '>= 2.6.0'
 gem 'json', '~> 2.6.0'
 
 # Code linting and style checking
-gem 'rubocop', '0.48.1'
+gem 'rubocop', '1.48.1'
